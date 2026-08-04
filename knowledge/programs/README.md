@@ -4,10 +4,9 @@ Folder ini berisi seluruh pengetahuan mengenai program-program yang dijalankan o
 
 Program yang terdokumentasi:
 
-- Wakaf Pembangunan dan Pengembangan Kawasan Masjid
-- Wakaf Produktif
+- Wakaf
 - ZIS (Zakat, Infak, Sedekah)
-- Water Treatment Plant (WTP) (wakaf produktif)
+- Water Treatment Plant (WTP)
 - TPQ
 - Kajian
 - Kemakmuran Masjid
