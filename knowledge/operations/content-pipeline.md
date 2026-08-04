@@ -3,53 +3,44 @@
 ## Flow
 
 Research
-
-↓
-
-Diskusi
-
-↓
-
-Approval
-
-↓
-
+    │
+    ▼
+Discussion
+    │
+    ▼
+Approval #1
+(Pilih ide terbaik)
+    │
+    ▼
 Copywriting
-
-↓
-
-Visual
-
-↓
-
+    │
+    ▼
+Visual Production
+    │
+    ▼
 Review
-
-↓
-
-Aproval
-
-↓
-
-Publish
-
-↓
-
+(Cek caption, visual, fakta)
+    │
+    ▼
+Approval #2
+(Ready to Publish?)
+    │
+    ▼
+Publishing
+    │
+    ▼
 Analytics
-
-↓
-
-Learning
-
-↓
-
-Diskusi
-
-↓
-
-Evaluating
-
-↓
-
+(H+1 / H+7 / H+30)
+    │
+    ▼
+Discussion
+(Mengapa berhasil/gagal?)
+    │
+    ▼
+Evaluation
+(Update knowledge Flora)
+    │
+    ▼
 Repeat
 
 ## Human in The Loop
