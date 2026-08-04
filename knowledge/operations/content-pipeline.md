@@ -45,17 +45,67 @@ Repeat
 
 ## Human in The Loop
 
-Research → AI
+Research
+AI
 
-Approval → Anggie
+↓
 
-Publishing → AI
+Discussion
+AI + Anggie
 
-Analytics → AI
+↓
 
-Strategi → Diskusi AI + Anggie
+Approval #1
+Anggie
 
-Evaluating → Diskusi AI + Anggie
+↓
+
+Copywriting
+AI
+
+↓
+
+Visual
+AI
+
+↓
+
+Review
+AI + Anggie
+
+↓
+
+Approval #2
+Anggie
+
+↓
+
+Publishing
+AI
+
+↓
+
+Analytics
+AI
+
+↓
+
+Discussion
+AI + Anggie
+
+↓
+
+Evaluation
+AI + Anggie
+
+↓
+
+Knowledge Update
+AI
+
+↓
+
+Repeat
 
 ## SOP
 
