@@ -116,6 +116,30 @@ Hermes hanya menggunakan Runtime.
 # Future
 
 - Incremental Build
+
+---
+
+# Runtime API
+
+Seluruh AI Agent **wajib** mengakses Runtime melalui `RuntimeManager`.
+
+Agent **tidak boleh** mengakses `loader.py`, `builder.py`, `registry.py`, `cache.py`, atau `context.py` secara langsung.
+
+Contoh penggunaan:
+
+```python
+from runtime.manager import RuntimeManager
+
+context = RuntimeManager.load()
+```
+
+RuntimeManager merupakan **single entrypoint** Runtime Engine.
+
+Keuntungan pendekatan ini:
+
+- Menyembunyikan implementasi internal Runtime.
+- Memudahkan perubahan arsitektur tanpa mengubah seluruh Agent.
+- Menjaga konsistensi cara seluruh Agent memperoleh Runtime Context.
 - Runtime Versioning
 - Plugin System
 - Memory Engine
